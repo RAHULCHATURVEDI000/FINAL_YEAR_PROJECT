@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+dlib
+numpy
+tensorflow
+scipy
+simpleaudio
+imutils
